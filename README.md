@@ -47,7 +47,7 @@ In this repository you will find all the workshop materials used during the two 
    [//]: # (TIP: change the next line to include your GitHub username instead of the place holder)
    
    [Launch My Python Workshop on Binder]:
-   https://mybinder.org/v2/gh/**PUT-YOUR-GITHUB-USERNAME-HERE**/2019-12-03-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb
+   https://mybinder.org/v2/gh/VBubalo/2019-12-03-intro-to-python-workshop/master?filepath=welcome.ipynb&urlpath=lab/tree/welcome.ipynb
    
    Don't click -> **[Launch My Python Workshop on Binder]** <- until you have added ***your*** GitHub username.
    
